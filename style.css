@@ -8,3 +8,9 @@
     height: 200px;
     background-color: red;
 }
+
+.secondContainer {
+    width: 200px;
+    height: 200px;
+    background-color: rgb(1, 7, 46);
+}
